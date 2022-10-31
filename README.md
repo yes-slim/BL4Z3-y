@@ -7,5 +7,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BL4Z3_y)](https://github.com/anuraghazra/github-readme-stats)
