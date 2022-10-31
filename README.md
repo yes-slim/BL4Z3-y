@@ -4,10 +4,10 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+                 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BL4Z3_y&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+                [![GitHub Streak](https://streak-stats.demolab.com?user=BL4Z3_y&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 ---
