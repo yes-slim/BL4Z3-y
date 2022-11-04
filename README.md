@@ -8,6 +8,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BL4Z3_y&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BL4Z3-y&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 ---
