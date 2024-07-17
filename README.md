@@ -8,7 +8,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BL4Z3-y&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BL4Z3-y&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yes-slim&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yes-slim&layout=compact&theme=dracula)
 
 ---
